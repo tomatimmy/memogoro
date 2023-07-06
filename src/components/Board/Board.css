@@ -1,0 +1,11 @@
+@media (max-width: 1360px) {
+  .Board {
+    max-width: 680px;
+  }
+}
+
+@media (min-width: 1361px) {
+  .Board {
+    max-width: 1360px;
+  }
+}
